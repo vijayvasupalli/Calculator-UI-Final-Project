@@ -10,11 +10,3 @@ This is a simple calculator built using:
 - Clean and modern UI
 - Beginner-friendly project
 
-## Live Preview
-(Add link if deployed)
-
-## GitHub Repository
-(Add repo link here)
-
----
-⭐ Feel free to fork and improve!
